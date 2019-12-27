@@ -1,21 +1,3 @@
 # DSEO
 
-**TODO: Add description**
-
-## Installation
-
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `dseo` to your list of dependencies in `mix.exs`:
-
-```elixir
-def deps do
-  [
-    {:dseo, "~> 0.1.0"}
-  ]
-end
-```
-
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at [https://hexdocs.pm/dseo](https://hexdocs.pm/dseo).
-
+Elixir implementation of Erlang codes from the book "Designing for Scalability with Erlang/OTP"
